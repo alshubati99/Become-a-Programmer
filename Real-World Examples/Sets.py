@@ -1,0 +1,21 @@
+# Operations on sets:
+college = set (['B','K'])
+coworker = set(['A','B','D'])
+family = set(['M','N','K'])
+print(family)
+print(len(coworker))
+friends = college.union(coworker, family)
+print(friends)
+print(len(friends))
+local = friends.intersection(family)
+print(local)
+invite = local.difference(college)
+print(invite)
+print('B' in invite)
+invite.add('B')
+print(invite)
+invite.remove('N')
+invite.pop()
+print(invite)
+
+
