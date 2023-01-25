@@ -1,4 +1,4 @@
-## [*Course Certificate*]()
+## [*Course Certificate*](https://www.linkedin.com/learning/certificates/7d31e20bfb2049a67cbfed49443aeecab24bf12d60543bae7f529e5eddf81346)
 ### Why to create functions?
 - To handle repeatitive tasks. 
 - Compine more steps into one function
