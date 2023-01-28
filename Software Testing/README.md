@@ -82,7 +82,7 @@
 - Give and recieve feedback and align it to the goals. 
 ### Test Planning:
 - *Create a test stratigy*:
-    - [Sample Test Strategy](Sample Test Strategy.pdf)
+    - [Sample Test Strategy](https://github.com/alshubati99/Become-a-Programmer/blob/master/Software%20Testing/Sample%20Test%20Strategy.pdf)
 - *Make a test plan*:
     - Scenario:
         - Click a button to add a new user.
@@ -95,6 +95,7 @@
     - One unique scenario per row. 
     - You can have from 10 to 100 scenarios. 
     - Developers and Designer should check the made plan. 
+    - [Sample Test Plan](https://github.com/alshubati99/Become-a-Programmer/blob/master/Software%20Testing/Sample%20Test%20Plan.pdf)
 - *Write acceptance criteria*:
     - Conditions that a software product must satisfy to be accepted by a stakeholder. 
     - It helps developer to know what to implement and business analyst to know what scope the software covers and the QA tester what scenarios to test. 
@@ -160,7 +161,7 @@
         - Browers/ version.
         - Logs and Tags.
         - Priority and Status.
-        [Bug Report Sample](Bug Report Template.pdf)
+        - [Bug Report Template](https://github.com/alshubati99/Become-a-Programmer/blob/master/Software%20Testing/Bug%20Report%20Template.pdf)
 - Triage bugs:
     1. Severity: how impactful the bug is to the system.(X-axes)
     2. Priority: how fast the bug should be fixed. (Y-axes)
@@ -174,12 +175,12 @@
 - Have bugs bashes:
     - 2 to 4 times a year.
 
-**For Further Informaion**: 
-> Check Agile Testing by Lisa Crispin. 
-> Check online resources:
-> https://www.ministryoftesting.com
->https://www.softwaretestinghelp.com
->https://www.softwaretestpro.com
+> **For Further Informaion**: 
+> Check Agile Testing by Lisa Crispin. <br>
+> Check online resources:<br>
+> https://www.ministryoftesting.com <br>
+>https://www.softwaretestinghelp.com <br>
+>https://www.softwaretestpro.com <br>
 
 
 
