@@ -6,7 +6,7 @@
 3. [**Real-World Examples.**](https://github.com/alshubati99/Become-a-Programmer/tree/master/Real-World%20Examples) 
 4. **Object-Oriented Design.**
 5. [**Algorithms.**](https://github.com/alshubati99/Algorithms_linkedIn)
-6. **Data Structure.** 
+6. [**Data Structure.**](https://github.com/alshubati99/Become-a-Programmer/tree/master/Data%20Structures)
 7. **Design Patterns.** 
 8. **Databases.**
 9. **Memory, Pointers, and Garbage Collection.**
