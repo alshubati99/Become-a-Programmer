@@ -1,0 +1,178 @@
+# Programming Foundations: Secure Coding.
+# [*Course Certificate*](https://www.linkedin.com/learning/certificates/3f427636eaff97cd834e9eb61c231e25f01ac54047ce0e408c89f3416879df63)
+
+### Security and Risk Overview:
+- Security Minded Developer.
+- Most effective person on workplace is the developer. 
+- Development Manager:
+    - What the team is doing.
+    - What the team spend time on.
+    - What risks are being solved.
+- Project Mangaer:
+    - Why tasks take as long as they do.
+    - How security and secure coding can impact timelines.
+- Quality Control:
+    - Identify risks.
+    - Identify exploits.
+    - Attack exploits.
+    - More effective tests.
+> security has its impact on the development team.
+- Cyberattacker:
+    - Tear down what a person builds. 
+    - Part of understanding secure code is understanding the attacker mindset. 
+    - Attacker's motivations:
+        - Financial.
+        - Political.
+        - Revenge.
+        - Reputation building.
+- Security tester:
+    - Why attackers may disrupt the software?
+    - Recognize the mindset of attackers. 
+    - Build attack tree.
+> Learn basics of attacking systems such as writing exploit attacks. 
+- Benefits of Attack Knowledge:
+    - Data access and use.
+    - Logging output from creation to consumption.
+    - Increased knowledge of overall code base.
+    - More interactions with security professionals.
+    - Better cross-team collaboration.
+- Constructive conversations with security professionals.
+- Decreased bug fixed time.
+- Better testing knowledge.
+> Take time to learn the basics.
+- Understand the risks.
+    - Focus on high risks areas.
+    - Do planning meetings to discuss the potential risks.
+- Document your code:
+    - There is a value in documentation in security. 
+### Web Interaction Code Issues:
+- **Input validation issues**:
+    - Injection attacks => SQL injection.
+    - Scripting attacks => XSS attack
+    - Fixes for them is Blacklisting, Whitelising. 
+    - Validation is server side. 
+- **Communication channel issues**:
+    - Like Free Wifi.
+    - TLS, SSL
+    - Client side validation.
+- Session management issues:
+    - Session Hijacking.
+    - Secure the session token. 
+    - Think about risks and make a global plan. 
+- **Error Handling issues**:
+    - User authentication flaws. 
+    - Error conditions will always occur. 
+    - Consistent Language:
+        - Review the text.
+        - Don't disclose system information.
+        - Don't display user's information.
+- **Logging and output issues**:
+    - Internal Functionality.
+    - User information.
+    - Log items: Events, Errors.
+    - General application flow and connection details.
+    - Credentials, connection strings, session,event tokens, encryption operations, keys and passwords should not be logged. 
+- **Internal and data management issues**:
+    - Connecting to remote service.
+    - Never commit sensitive information to source control.
+    - Consider certificates when securing client server applications.
+- **Configuration issues**:
+    - Configuration is software and OS are running on. 
+    - Mitigate attacks:
+        - Package beta software separately.
+        - Deliver directly to trusted beta testers.
+        - Reduce risk of feature flags.
+        - Consider configuration on runtime. 
+        - OWASP => Open Web App Security Project. 
+- **Database issues**:
+    - SQL injection. 
+    - Secure communication channels.
+    - Main target for attackers.
+- **File I/O issues**:
+    - Set permissions. 
+    - Leverage read-only files.
+    - Don't allow file uploads.
+    - Input validations.
+- **Memory Management issues**:
+    - Buffer Overflow attack. 
+    - Deal with data structures.
+    - Mitigations:
+        - Randomize memory allocations.
+        - Point, execution space, stack protection
+        - Fix three phased approach:
+            - Native protections.
+            - Input validation.
+            - Good testing strategy. 
+- **Dependency Management issues**:
+    - Find issues.
+    - Identify these issues. 
+    - Leverage dependence scan tools. 
+    - Detailed analysis. 
+    - Stay on top of dependencies.
+- **Authentication and password issues**:
+    - Time it takes to perform authentication.
+    - Hashing Brute Force attack. 
+    - Never store users' passwards even if was encrypted.
+    - Leverage short-lived unique links for passwards resets.
+    - Never allow passwards manipulation.
+- **Authorization and access control issues**:
+    - ACLs => Access Control lists if not applied correctly can produce defects.
+    - Always require logout and login permissions.
+    - Every transaction should check authorization. 
+    - Mitigations:
+        - Good process/ controls to review ACLs.
+        - Good reviews.
+        - Documentation of ACLs and changes.
+        - Good testing  strategy.
+        - Positive and negitive testing.
+- **Cryptography issues**:
+    - Use of broken cryptographic routines.
+    - Mitigations:
+        - Use greatest and latest algorithms.
+        - Use not cracked algorithms.
+        - Keep tabs on what you use in case you need to upgrad.
+    - Common Algorithms Misunderstanding:
+        - Intialization vectors.
+        - Salt.
+        - Nonce.
+        - Should not be ignored.
+    - Misunderstanding Mitigations:
+        - If you don't know, Ask!.
+        - It is okay to not know everything.
+        - It can be almost as bad to misuse algorithms as not to use them.
+> Faster algorithms give attacker a better chance to hack the system because they give attackers more operations per unit of time to brute force a passward.
+### Security in the SDLC:
+- *Embrace security in design phase*:
+    - Use critical eye with your features.
+    - Identify weak points.
+    - Look for injection or memory attacks.
+    - Look for database issues.
+    - Create an inventory of risks.
+> Start the conversation of security in the ealy phase of development. 
+- *Embrace security in development phase*:
+    - Live to learn.
+    - Blogs and Twitter.
+    - Focus on well known InfoSec and AppSec source.
+    - Test your own skills.
+    - Be humble.
+    - You will make mistakes, just own it.
+    - Development is hard, but security is harder.
+- *Embrace security in Testing phase*:
+    - Write tests to ensure that mitigations are right.
+    - Leverage the risk register.
+    - Pen Testing Tools:
+        - Be willing to take the lead.
+        - Some learning curve to use.
+        - Biggerr learning curve to interpret.
+        - Make a testing plan.
+- *Embrace security in deployment*:
+    - Use of files in a file system.
+    - Sophisticated APIs.
+    - Automation, can preven internal attacks.
+    - Secure machines that do the deployment.
+- *Implement best practices*:
+    - Focus on best practices.
+    - Consider source control, unit testing, dynamic code analysis and peer reviews to help secure your code. 
+    - Risk management has huge focus.
+    - Vulnarbiliy management. 
+>> Focus on breaking and not just building. 
