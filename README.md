@@ -1,5 +1,5 @@
 # Become a Programmer: LinkedIn Learning Path. 
-## [*Learning Path Certificate*]()
+## [*Learning Path Certificate*](https://www.linkedin.com/learning/certificates/161ea5f0c91eb4214ed8fa091877e9c8fd1ab0fe03b16db179893aa36b11037b?u=60693444)
 ### This learning path consists of the following courses:
 1. [***Fundamentals.***](https://github.com/alshubati99/Career-Essentials/tree/master/Programming%20Fundamentals) 
 2. [***Beyond the Fundamentals.***](https://github.com/alshubati99/Career-Essentials/tree/master/Beyond%20Fundamentals)
