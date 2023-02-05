@@ -17,7 +17,7 @@
 ---
 
 [![GitHub license](https://img.shields.io/github/license/alshubati99/Become-a-Programmer.svg)](https://github.com/alshubati99/Become-a-Programmer/master/LICENSE)
-[![GitHub contributors](https://img.shields.io/github/contributors/alshubat99/Become-a-Programmer)](https://GitHub.com/alshubati99/Become-a-Programmer/contributors/)
+[![GitHub contributors](https://img.shields.io/github/contributors/alshubati99/Become-a-Programmer)](https://GitHub.com/alshubati99/Become-a-Programmer/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/alshubati99/Become-a-Programmer.svg)](https://GitHub.com/alshubati99/Become-a-Programmer/issues/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/alshubati99/Become-a-Programmer.svg)](https://GitHub.com/alshubati99/Become-a-Programmer/pull/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
