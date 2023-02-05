@@ -7,7 +7,7 @@
 4. [***Object-Oriented Design.***](https://github.com/alshubati99/Become-a-Programmer/tree/master/Object-Oriented%20Design)
 5. [***Algorithms.***](https://github.com/alshubati99/Algorithms_linkedIn)
 6. [***Data Structure.***](https://github.com/alshubati99/Become-a-Programmer/tree/master/Data%20Structures)
-7. ***Design Patterns.*** 
+7. [***Design Patterns.***](https://github.com/alshubati99/Become-a-Programmer/tree/master/Design%20Patterns) 
 8. [***Databases.***](https://github.com/alshubati99/Become-a-Programmer/tree/master/Databases)
 9. [***Memory, Pointers, and Garbage Collection.***](https://github.com/alshubati99/Become-a-Programmer/tree/master/Memory-Pointers)
 10. [***APIs and Web Services.***](https://github.com/alshubati99/Become-a-Programmer/tree/master/APIs-Web%20Services)
