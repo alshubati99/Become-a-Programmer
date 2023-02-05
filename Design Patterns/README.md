@@ -1,4 +1,4 @@
-b# Programming Foundations: Design Patterns.
+# Programming Foundations: Design Patterns.
 # [*Course Certificate*](https://www.linkedin.com/learning/certificates/349704189f526e5c7a7a69975a6c901e1677d305cde6ae68b47e8e6e5dae62de)
 
 - Design patterns are common solution to OOP.
